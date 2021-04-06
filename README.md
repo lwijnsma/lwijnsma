@@ -3,5 +3,5 @@
 - 👀 I’m interested in Container development and Networking
 - 🌱 I’m currently learning Kubernetes
 - 📫 You can contact me for study related things at: [l.l.wijnsma@st.hanze.nl](mailto:l.l.wijnsma@st.hanze.nl)
-- ✉️ My personal publicmail is: [wijnsmalaurens@gmail.com](mailto:wijnsmalaurens@gmail.com)
+- ✉️ My personal public email is: [wijnsmalaurens@gmail.com](mailto:wijnsmalaurens@gmail.com)
 - 🔑 You can find my pgp key at: [Keyoxide](https://keyoxide.org/C9DB4E6EFAC865201A8621607E8E74051279AFFC) Or [Openpgp.org](https://keys.openpgp.org/search?q=C9DB4E6EFAC865201A8621607E8E74051279AFFC)
