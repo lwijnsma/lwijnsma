@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laurens Wijnsma
-- 🎓 I'm A second year HBO-ICT student at [Hanze University of Applied Sciences](https://hanze.nl)
+- 🎓 I'm a third year HBO-ICT student at [Hanze University of Applied Sciences](https://hanze.nl)
 - 👀 I’m interested in Container development and Networking
 - 🌱 I’m currently learning Kubernetes
 - 📫 You can contact me for study related things at: [l.l.wijnsma@st.hanze.nl](mailto:l.l.wijnsma@st.hanze.nl)
