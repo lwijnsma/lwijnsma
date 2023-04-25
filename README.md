@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laurens Wijnsma
-- 🎓 I'm a third year HBO-ICT student at [Hanze University of Applied Sciences](https://hanze.nl)
-- 👀 I’m interested in Container development and Networking
-- 🌱 I’m currently learning Kubernetes
+- 🎓 I'm a fourth year HBO-ICT student at [Hanze University of Applied Sciences](https://hanze.nl)
+- 👀 I’m interested in Large scale Networking and containers
+- 🌱 I’m currently learning BGP with DN42
 - 📫 You can contact me for study related things at: [l.l.wijnsma@st.hanze.nl](mailto:l.l.wijnsma@st.hanze.nl)
 - ✉️ My personal public email is: [wijnsmalaurens@gmail.com](mailto:wijnsmalaurens@gmail.com)
