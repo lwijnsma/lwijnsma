@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Laurens Wijnsma.
-- 🎓 I'm a NSE master student at the University of Amsterdam.
+- 🎓 I'm a Network engineer at TNO
 - 💼 I wrote my bachelor thesis about kubernetes security.
-- 👀 I’m interested in Large scale Networking and containers.
-- 🌱 I’m currently learning BGP with DN42.
+- 💼 I wrote my master thesis about Quantum readiness.
+- 👀 I’m interested in Large scale Networking and computing.
+- 🌱 I’m currently learning BGP witin the DN42 network.
 - ✉️ My personal public email is: [wijnsmalaurens@gmail.com](mailto:wijnsmalaurens@gmail.com)
